@@ -1,0 +1,13 @@
+{
+    "name": "new_test",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "install" :"cd client && npm i && cd .. && cd server && npm i",
+      "build" : "cd client && npm run build"
+    },
+    "author": "",
+    "license": "ISC"
+    
+  }
+  
